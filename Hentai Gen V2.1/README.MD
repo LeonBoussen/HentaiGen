@@ -1,6 +1,6 @@
 # Hentai Link generater
 
-version: V1.2
+version: V2.1
 
 # how to use
 step 1 - open the .vbs file
